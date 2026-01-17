@@ -1,7 +1,8 @@
-"scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "node bot/index.js",
-  "lint": "next lint"
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "node bot/index.js"
+  }
 }
 
